@@ -14,7 +14,7 @@
 - Bonus: smooth scroll + active nav-link highlight while scrolling
 - Bonus: downloadable résumé button
 
-**Live link:** 
+**Live link:**  https://cloud-exify-project-1-kappa.vercel.app/
 
 ## Tech stack
 
